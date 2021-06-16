@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+    
+   body {
+    background-image:url("https://www.janegoodall.nl/wp-content/uploads/Certificaat-foto-CHIMP.png");
+    background-repeat:no-repeat;  
+    background-size:cover;
+ }
+  
+   h1{
+    color:white;
+}
+    
+   h3{
+    color:white;
+}
+    
+   p{
+    color:white;
+}
+  
+ 
+  </style>
+ </head>
+<body>
+
+ <h1>Carlos</h1>
+    
+ <h3>Karakter</h3>
+    
+ <p>Carlos is onze jongste, de zoon van Mirjam. Hij is erg avontuurlijk en nieuwsgierig. Hij is ook heel slim.</p>
+    
+ <h3>Geschiedenis</h3>
+    
+ <p>Bij Carlos bevalling ging het niet zo goed, Hij kwam namelijk een maand te vroeg. we zaten toen erg in de stress maar gelukkig is het toch goedgekomen. </p>
+  
+  <br>
+  <br> 
+
+ <a href="./html.html">terug naar de website</a>
+    
+</body>
+</html>
