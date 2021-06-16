@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+    
+    body {
+     background-image:url("https://www.artis.nl/media/filer_public_thumbnails/filer_public/00/f1/00f1b6db-fbed-4fef-9ab0-       84e944ff11f8/chimpansee_amber_r_1920x1080.jpg__1920x1080_q85_subject_location-923%2C365_subsampling-2.jpg");
+     background-repeat:no-repeat;  
+     background-size:cover;
+}
+    
+    p{
+     color:white;    
+ }
+
+    H1{
+     color:white;    
+}
+    
+    h3{
+     color:white;    
+}
+ 
+  </style>
+ </head>
+<body>
+
+ <h1>Mirjam</h1>
+    
+ <h3>Karakter</h3>
+
+ <p>Mirjam is onze enige vrouwtjesaap. Ze is de moeder van Carlos en dat heeft ze tot nu toe goed gedaan. Ze is erg beschermend en behoedzaam     tegenover vreemden. Misschien ook door haar verleden met stropers. </p>
+
+ <h3>Geschiedenis</h3>
+ 
+ <p>Mirjam is 5 jaar geleden gered van stropers in de oerwouden van Congo. Ze is toen door ons geadopteerd</p>
+
+ <a href="./html.html">Terug naar de website</a>
+
+</body>
+</html>
