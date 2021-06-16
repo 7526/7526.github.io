@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+ 
+   body{
+    background-color:#C3FFC3;
+}
+ 
+   #telefoonnummer{
+    color:green;
+}
+ 
+   #mail{
+    color:green;
+}
+
+   #linkje{ 
+    color:green;
+}
+    
+
+    
+  </style>
+ </head>
+<body>
+
+ <h1>Contactgegevens</h1>
+
+  <!--tekst-->   
+
+ <adress>Bel naar</adress>&nbsp;<adress id=telefoonnummer>026-4424534</adress><adress> of mail naar</adress>&nbsp;<adress id=mail>info@burgerszoo.nl</adress>
+
+   <br><br><br>
+    
+  <a href="./wikipedia.html" target="_blank"><img src="./burgers_zoo.jpeg" width="10%"></a>
+
+   <br><br>
+
+  <a id=linkje href="./html.html">Terug naar de website</a>
+
+</body>
+</html>
