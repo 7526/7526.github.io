@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+   body{
+    background-image:url("https://www.burgerszoo.nl/media/4foc3iwv/li9a5511.jpg?   anchor=center&mode=crop&width=1248&height=624&rnd=132466818815900000");
+    background-repeat:no-repeat;  
+    background-size:cover;
+}
+ 
+   p{
+    color:white;    
+}
+    
+   h1{
+    color:white;    
+}
+    
+   h3{
+    color:white;
+}
+
+    
+
+  </style>
+ </head>
+<body>
+ <h1>Alfred</h1>
+
+ <h3>Karakter</h3>
+    
+ <p>Alfred is onze oudste aap, hij heeft een fijn karakter. Vaak zijn chimpansees agressief maar dat was bij Alfred niet het geval, hij is erg zorgzaam en lief.</p>
+    
+ <h3>Geschiedenis</h3>
+    
+ <p>Alfred werd ooit gevonden in de Duitse Alpen, waarschijnlijk was hij daar achtergelaten nadat hij te groot was geworden om als huisdier te dienen</p>
+    
+  <br>
+    
+ <a href="./html.html">Terug naar de website</a>
+
+</body>
+</html>
