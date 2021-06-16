@@ -3,133 +3,65 @@
 <head>
 <style>
 table {
+  font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 75%;
-  height:50%;
+  width: 100%;
 }
 
-header{
- background-color:#95ff95;
- padding:20px;
- text-align:center;
- font-size:30px;
- border:5px solid #85e185
-}
- 
 td, th {
- border: 5px solid #85e185;
- text-align: left;
- padding: 8px;
- background-color: #95ff95
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 
-tr{
- background-color: #95ff95;
+tr:nth-child(even) {
+  background-color: #dddddd;
 }
-
-#contactgegevens {
- color: green;
-}
-    
-#info{
- color:green;
-}
-#menu{
-  text-align:right;
-  font-size:15px;
-}
-
-section{
- background-color:#95ff95;
- padding: 4px;
- border:5px solid #85e185;
-    }
-    
-body{
- background-color:#C3FFC3;
-    }
-    
-p{
-  animation: color-change 2s infinite;
-}
-
-ul {
-  animation: color-change 2s infinite;
-    }
-    
-
-@keyframes color-change {
-  0% { color: #6EAF6E; }
-  75% { color: #446C44; }
-  100% { color: #6EAF6E; }
-}
-    
-
 </style>
 </head>
 <body>
-<header>
-  <div id="menu">
-      <a href="https://www.burgerszoo.nl/" Target="_blank">Home</a> <a href="#contactgegevens">Filmpje</a>
-  </div>
- <h2>De apen van Burgers Zoo</h2>
-</header>
 
-<p>Bij Burgers Zoo hebben wij:</p>
-
-<ul>
-  <li>3 apen</li>
-  <li>754 eenden</li>
-  <li>4 giraffes</li>
-</ul>
- 
- <p>Hieronder wat informatie over onze apen. Klik op een aap voor meer informatie &#128512;</p>
+<h2>HTML Table</h2>
 
 <table>
   <tr>
-    <th>naam</th>
-    <th>leeftijd</th>
-    <th>foto</th>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
   </tr>
-  
-   <tr width="10%">
-    <td>Alfred</td>
-    <td>13 jaar</td>
-    <td> <a href="./Alfred.html"><img src= "https://resource.wur.nl/upload_mm/b/0/2/06e75304-7465-4a08-bffa-2efce553d4ea_shutterstock_508812640_3b56aa0e_570x456.jpg" alt="monkey" width="100%"></a></td>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
   </tr>
-  
-   <tr>
-    <td>Mirjam</td>
-    <td>7 jaar</td>
-    <td> <a href="./Mirjam.html"><img src="https://www.aap.nl/uploads/styles/visual_sm/public/background/2019-04/Marria%20mobiel.jpg?itok=ppqbwssL" alt="monkey" width="100%"></a></td>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
   </tr>
-  
-   <tr>
-    <td>Carlos</td>
-    <td>1 jaar</td>
-    <td><a href="./Carlos.html"><img src= "https://www.fysiolinks.nl/wp-content/uploads/2020/02/hanging-chimp.7d782f21fc8b-e1583327081395.jpg" alt="monkey" width="100%"></a></td>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
   </tr>
- 
-
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
 </table>
-  <br>
-  
-    <iframe width="1024" height="576" src="https://www.youtube.com/embed/yim23IFJOyQ?">
-</iframe>
-
-  <br>
-  <br>
-<section>
- <ul>
-  <li>
-  <a id="contactgegevens"  href="./html2.html">Contactgegevens</a>
-  </li>
-  <li>
-      <a id="info" href="https://nl.wikipedia.org/wiki/Koninklijke_Burgers%27_Zoo" target="_blank">Meer informatie</a>
-  </li>
- </ul>
-</section>
 
 </body>
 </html>
+
 
